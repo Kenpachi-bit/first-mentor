@@ -1,0 +1,11 @@
+:root{
+  font-size: 15px;
+--background: hsl(212, 45%, 89%);
+--main-text: hsl(216, 15%, 48%);
+--sub-text: hsl(218, 44%, 22%);
+}
+
+body{
+  background-color: var(--background);
+}
+
